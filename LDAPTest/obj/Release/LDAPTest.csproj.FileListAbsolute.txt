@@ -1,0 +1,6 @@
+C:\@MyData\Leo\Code\LDAPTest\LDAPTest\LDAPTest\bin\Release\LDAPTest.exe.config
+C:\@MyData\Leo\Code\LDAPTest\LDAPTest\LDAPTest\bin\Release\LDAPTest.exe
+C:\@MyData\Leo\Code\LDAPTest\LDAPTest\LDAPTest\bin\Release\LDAPTest.pdb
+C:\@MyData\Leo\Code\LDAPTest\LDAPTest\LDAPTest\obj\Release\LDAPTest.csprojResolveAssemblyReference.cache
+C:\@MyData\Leo\Code\LDAPTest\LDAPTest\LDAPTest\obj\Release\LDAPTest.exe
+C:\@MyData\Leo\Code\LDAPTest\LDAPTest\LDAPTest\obj\Release\LDAPTest.pdb
